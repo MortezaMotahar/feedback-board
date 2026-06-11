@@ -35,3 +35,6 @@ python app.py
 <img width="1920" height="1024" alt="ثبت فیدبک" src="https://github.com/user-attachments/assets/869e79df-a0f6-4f6b-b0d9-35aa047d3024" />
 <img width="1917" height="1026" alt="لاگین ادمین" src="https://github.com/user-attachments/assets/fb56b16a-c744-4393-85c4-120142bcd0ac" />
 <img width="1915" height="1028" alt="لیست فیدبک ها" src="https://github.com/user-attachments/assets/ef690f95-bba1-4082-9ae5-936527d4e3a2" />
+
+
+همچنین دیپلوی شده روی آدرس : https://BlackHole.pythonanywhere.com/
