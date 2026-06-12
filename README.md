@@ -22,7 +22,7 @@ Simple feedback management system with Flask, SQLite, Bootstrap, and Docker. Use
 
 - کلون کردن مخزن:
 ```bash
-git clone https://github.com/MortzaMotahar/feedback-board.git
+git clone https://github.com/MortezaMotahar/feedback-board.git
 cd feedback-board
 python -m venv venv
 pip install -r requirements.txt
