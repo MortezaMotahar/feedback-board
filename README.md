@@ -37,8 +37,5 @@ python app.py
 <img width="1917" height="1026" alt="لاگین ادمین" src="https://github.com/user-attachments/assets/fb56b16a-c744-4393-85c4-120142bcd0ac" />
 <img width="1915" height="1028" alt="لیست فیدبک ها" src="https://github.com/user-attachments/assets/ef690f95-bba1-4082-9ae5-936527d4e3a2" />
 
-## دیپلوی کردن
-همچنین دیپلوی شده روی آدرس : https://BlackHole.pythonanywhere.com/
-
 ## نکته
 - درمورد فایل Docker صادقانه باید بگم که داکر رو من بیشتر از یک سال قبل محتوایی رو درموردش دیدم و الان حضور ذهن زیادی ندارم ، صرفا از یک سری اطلاعات کمم توانستم قسمت هایی رو پیاده سازی کنم برای همین مطمئن نیستم فایل داکری که ساختم درست باشد یا نه
